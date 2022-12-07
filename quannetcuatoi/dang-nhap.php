@@ -60,7 +60,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['dangnhap'])) {
 			<div class="container-fluid col-lg-5 col-md-8 mb-5">
 				<div class="row bg-white my-1 rounded-top rounded-3">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-3">
-					<h1 class="text-center text-primary">VLNET</h1>
+					<h1 class="text-center text-primary">UET NET</h1>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
 						<h3 class="text-center text-primary mt-3">QUẢN LÝ QUÁN NET</h3>
